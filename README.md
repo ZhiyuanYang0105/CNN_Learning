@@ -11,11 +11,11 @@ Implemented LeNet-5 using PyTorch and trained on the FashionMNIST dataset.
 ## Training
 - Optimizer: Adam (lr=0.001)
 - Loss: CrossEntropyLoss
-- Epochs: 10
+- Epochs: 20
 - Batch size: 128
 
 ## Results
-- Best validation accuracy: ~84%
+- Best validation accuracy: ~86%
 - Training and validation curves shown below
 
 ## Files
